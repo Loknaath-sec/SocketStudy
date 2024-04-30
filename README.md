@@ -1,5 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
-
+### Name: LOKNAATH.P
+### Register Number: 212223240080
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
